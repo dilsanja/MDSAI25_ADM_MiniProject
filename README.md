@@ -1,5 +1,5 @@
 
-# 🎓 Back to School – Mini Data Mining Project
+# 🎓 Back-to-School Buying Behavior – Mini Data Mining Project
 
 A complete data pipeline project for analyzing and mining retail product data using clustering and association rule mining techniques.
 
@@ -69,7 +69,7 @@ run_pipeline.ipynb
 ---
 
 ## ✍️ Author
-258733L_P D S Perera
+P D S Perera (258733L)
 
 ---
 
