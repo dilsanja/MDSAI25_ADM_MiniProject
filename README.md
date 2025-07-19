@@ -26,6 +26,20 @@ Back_to_School_MiniProject_GitRepo/
 
 ## 🚀 How to Run This Project
 
+## 📂 Dataset Setup
+
+The dataset used in this project is derived from the UCI Online Retail dataset and filtered for school-related products.
+
+To run the project:
+
+1. **Create a `data/` folder** in the root directory (if it doesn't exist).
+2. **Download the dataset file** from the link below.
+3. **Place it inside the `data/` folder.**
+
+📥 [Download school_products_only.csv]([https://drive.google.com/file/d/1kMjkYglN64xDCjsPw1lZ0fZBYDQ9bVHx/view?usp=sharing](https://drive.google.com/uc?export=download&id=1kMjkYglN64xDCjsPw1lZ0fZBYDQ9bVHx))
+
+
+
 ### ✅ 1. Install Requirements
 ```bash
 pip install -r requirements.txt
