@@ -1,7 +1,11 @@
 # main.py
-
+# P D S Perera (Index : 258733L)
 import subprocess
 import sys
+import os
+
+if not os.path.exists("data/OnlineRetail.xlsx"):
+    raise FileNotFoundError("Dataset not found. Please download it and place it in the 'data/' folder.")
 
 # --- Step 1: Required Python packages ---
 required_packages = [
