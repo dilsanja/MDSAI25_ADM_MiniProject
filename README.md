@@ -59,6 +59,13 @@ run_pipeline.ipynb
 
 ---
 
+### 🔗 Live Dashboard Link
+
+[![View Dashboard](https://img.shields.io/badge/Click_to_View-Looker_Studio-blue?style=for-the-badge&logo=google)](https://lookerstudio.google.com/reporting/f32c7d09-f2cf-45f3-8bd4-fd0fce87b74e)
+
+---
+
+
 ## 🔧 Technologies Used
 - Python 3.x
 - pandas, numpy
