@@ -16,7 +16,7 @@ Back_to_School_MiniProject_GitRepo/
 ├── data/
 │   └── OnlineRetail.xlsx       # Row Data
 ├── notebooks/
-│   └── run_pipeline.ipynb      # Jupyter notebook for testing/visuals
+│   └── run_pipeline.ipynb      # notebook for testing/visuals
 └── src/
     ├── clean_data.py           # Data cleaning functions
     ├── clustering.py           # K-means or other clustering methods
