@@ -13,6 +13,8 @@ Back_to_School_MiniProject_GitRepo/
 ├── requirements.txt            # Required Python packages
 ├── README.md                   # Project description and guide
 ├── run_pipeline.ipynb          # Jupyter notebook for testing/visuals
+├── data/
+│   └── OnlineRetail.xlsx       # Row Data
 ├── notebooks/
 │   └── run_pipeline.ipynb      # Jupyter notebook for testing/visuals
 └── src/
