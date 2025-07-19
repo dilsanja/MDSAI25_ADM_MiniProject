@@ -36,7 +36,7 @@ To run the project:
 2. **Download the dataset file** from the link below.
 3. **Place it inside the `data/` folder.**
 
-📥 [Download school_products_only.csv]([https://drive.google.com/file/d/1kMjkYglN64xDCjsPw1lZ0fZBYDQ9bVHx/view?usp=sharing](https://drive.google.com/uc?export=download&id=1kMjkYglN64xDCjsPw1lZ0fZBYDQ9bVHx))
+📥 [Download OnlineRetail.xlsx](https://drive.google.com/uc?export=download&id=1kMjkYglN64xDCjsPw1lZ0fZBYDQ9bVHx)
 
 
 
